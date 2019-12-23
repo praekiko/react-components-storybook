@@ -1,6 +1,6 @@
 {
   "name": "@praekiko/react-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React components with storybook",
   "main": "lib/index.js",
   "engines": {
@@ -39,5 +39,9 @@
   "files": [
     "README.md",
     "lib"
-  ]
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/praekiko/react-components-storybook.git"
+  }
 }
